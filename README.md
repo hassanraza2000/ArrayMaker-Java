@@ -19,7 +19,7 @@ ArrayMaker-Java is a simple utility program that creates an array of sequential 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/hassanraza2008/ArrayMaker-Java.git
+   git clone https://github.com/hassanraza2000/ArrayMaker-Java.git
    ```
 2. **Navigate to the project directory:**
    ```sh
